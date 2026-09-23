@@ -1,3 +1,4 @@
 .env
 venv/
-*.db
+*.db.ipynb_checkpoints/
+*.log
